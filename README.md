@@ -1,1 +1,1 @@
-Detection of Parkinspns Disease
+# Detection of Parkinspns Disease Using Supervised Machine Learning
